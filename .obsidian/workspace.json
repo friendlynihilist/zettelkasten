@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖 Note Bibliografiche/📘 Il rituale del serpente.md",
+                "file": "Note Permanenti/Git Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Note Bibliografiche/📘 Il rituale del serpente.md",
+                "file": "Note Permanenti/Git Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,15 +164,15 @@
   },
   "active": "61bc08fb524b3847",
   "lastOpenFiles": [
+    "@antoniouMethodologyDesignOnline2013.md",
+    "Note Permanenti/Git Test.md",
+    "📖 Note Bibliografiche/📘 Pensare l'efficacia in Cina e in Occidente.md",
+    "📖 Note Bibliografiche/📘 Il rituale del serpente.md",
+    "📖 Note Bibliografiche/📘 Arte e astrologia nel Palazzo Schifanoja di Ferrara.md",
     "Note Permanenti/Nuova nota.md",
     "Note Permanenti/Potenza e atto.md",
     "Templates/Modello Nota.md",
     "Note Permanenti/Efficacia della matematica nella descrizione della realtà.md",
-    "Note Permanenti/Efficacia ed efficienza.md",
-    "Note Permanenti/Empirismo.md",
-    "Note Permanenti/Filosofia della natura.md",
-    "Note Permanenti/Git Test.md",
-    "Note Permanenti/Modellizzazione e attualizzazione.md",
-    "Templates/Modello Libro.md"
+    "Note Permanenti/Efficacia ed efficienza.md"
   ]
 }
