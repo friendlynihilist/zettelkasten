@@ -1,8 +1,8 @@
-Creata il: {{date}} {{time}}
+Creata il: 2023-01-15 20:59
 Status: #idea
 Tags:
 
-# {{title}}
+# Nuova nota
 
 
 
