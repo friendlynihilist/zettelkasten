@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Permanenti/Nuova nota.md",
+                "file": "📖 Note Bibliografiche/📘 Il rituale del serpente.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Permanenti/Nuova nota.md",
+                "file": "📖 Note Bibliografiche/📘 Il rituale del serpente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +163,7 @@
   },
   "active": "61bc08fb524b3847",
   "lastOpenFiles": [
+    "Note Permanenti/Nuova nota.md",
     "Note Permanenti/Potenza e atto.md",
     "Templates/Modello Nota.md",
     "Note Permanenti/Efficacia della matematica nella descrizione della realtà.md",
@@ -171,7 +172,6 @@
     "Note Permanenti/Filosofia della natura.md",
     "Note Permanenti/Git Test.md",
     "Note Permanenti/Modellizzazione e attualizzazione.md",
-    "Note Permanenti/Nuova nota.md",
     "Templates/Modello Libro.md"
   ]
 }
