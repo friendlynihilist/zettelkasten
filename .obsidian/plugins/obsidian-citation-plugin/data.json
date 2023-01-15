@@ -1,8 +1,8 @@
 {
   "citationExportFormat": "csl-json",
   "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
+  "literatureNoteFolder": "/Note Bibliografiche",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\npublisher: {{publisher}}\nplace: {{publisherPlace}}\nDOI: {{doi}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "/Users/carlo/Desktop/phd/My Phd.json"
