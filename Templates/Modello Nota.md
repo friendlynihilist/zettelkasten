@@ -2,8 +2,6 @@ Creata il: {{date}} {{time}}
 Status: #idea
 Tags:
 
-# {{title}}
-
 
 
 ---
