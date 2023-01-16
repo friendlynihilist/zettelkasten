@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13274f4a6501f476",
+        "id": "b2d018b65c39a01b",
         "type": "tabs",
         "children": [
           {
-            "id": "fe401e8496989ceb",
+            "id": "ae7f3a313517bc33",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2eaf74a2548e2674",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Mappa dei Contenuti.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c82e7c76a7fd973a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Permanenti/👨‍🏫 Aristotele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Mappa dei Contenuti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +120,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2eaf74a2548e2674",
+  "active": "ae7f3a313517bc33",
   "lastOpenFiles": [
-    "📖 Note Bibliografiche/📘 Pensare l'efficacia in Cina e in Occidente.md",
-    "📖 Note Bibliografiche/📘 Il rituale del serpente.md",
-    "📖 Note Bibliografiche/📘 Arte e astrologia nel Palazzo Schifanoja di Ferrara.md",
-    "@boyddavisCanBelieveWhat2021.md",
-    "@antoniouMethodologyDesignOnline2013.md",
-    "Note Permanenti/Nuova nota.md",
-    "Note Permanenti/Git Test.md",
+    "Note Bibliografiche/@antoniouMethodologyDesignOnline2013.md",
+    "Note Bibliografiche/@barabucciSupportingComplexityConjectures.md",
     "Note Permanenti/Untitled.md",
-    "Note Permanenti/Teoria delle forme.md",
-    "Note Permanenti/Tao.md"
+    "@aljalboutIntroducingContextualReasoning2019.md",
+    "Note Permanenti/Filosofia della natura.md",
+    "Templates/Mappa dei Contenuti.md",
+    "Note Permanenti/👨‍🏫 Aristotele.md",
+    "Templates/Modello Autore.md",
+    "Templates/Modello Libro.md",
+    "Templates/Modello Nota.md"
   ]
 }
