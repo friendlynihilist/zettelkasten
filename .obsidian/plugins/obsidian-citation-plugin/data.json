@@ -1,8 +1,8 @@
 {
   "citationExportFormat": "csl-json",
-  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteTitleTemplate": "{{title}}",
   "literatureNoteFolder": "Note Bibliografiche",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\npublisher: {{publisher}}\nplace: {{publisherPlace}}\nDOI: {{doi}}\n---\n\n{{abstract}}\n\n---\n## {{title}}\n[See in Zotero]({{zoteroSelectURI}})\n",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\npublisher: {{publisher}}\nplace: {{publisherPlace}}\nDOI: {{doi}}\n---\n\n{{abstract}}\n\n---\n[See in Zotero]({{zoteroSelectURI}})\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "/Users/carlo/Desktop/phd/My Phd.json"

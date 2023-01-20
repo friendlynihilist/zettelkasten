@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ad86484cda3e936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Bibliografiche/@pinottiTeorieImmagineDibattito2009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Permanenti/Immagine come ecfrasi del movimento.md",
+                "file": "Note Bibliografiche/@pinottiTeorieImmagineDibattito2009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +158,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3dba66fc6cc1261f",
+  "active": "6ad86484cda3e936",
   "lastOpenFiles": [
-    "Note Permanenti/Filosofia della natura.md",
+    "Note Bibliografiche/Knowledge Representation of digital Hermeneutics of archival and literary Sources.md",
+    "Note Bibliografiche/Supporting complexity and conjectures in cultural heritage descriptions.md",
+    "Note Bibliografiche/@kermodeSensoFineStudi2020.md",
+    "Note Bibliografiche/@daquinoExpressingAssertingArts.md",
+    "Note Bibliografiche/@pinottiTeorieImmagineDibattito2009.md",
+    "Note Bibliografiche/@panagiotidouPoeticsEkphrasisStylistic2022.md",
     "Note Permanenti/Immagine come ecfrasi del movimento.md",
     "Note Permanenti/Le visualizzazioni dei dati sono immagini di prima classe.md",
-    "Note Bibliografiche/@pinottiTeorieImmagineDibattito2009.md",
-    "Note Permanenti/Untitled 1.md",
-    "Note Bibliografiche/@kermodeSensoFineStudi2020.md",
-    "Note Bibliografiche/@antoniouMethodologyDesignOnline2013.md",
-    "Note Bibliografiche/@barabucciSupportingComplexityConjectures.md",
-    "@aljalboutIntroducingContextualReasoning2019.md",
-    "Templates/Mappa dei Contenuti.md"
+    "Note Permanenti/Modellizzazione e attualizzazione.md",
+    "Note Bibliografiche/Advancing digital humanities_ research, methods, theories.md"
   ]
 }
