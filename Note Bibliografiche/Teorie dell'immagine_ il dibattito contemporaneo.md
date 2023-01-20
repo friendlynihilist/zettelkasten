@@ -10,5 +10,4 @@ DOI:
 
 
 ---
-## Teorie dell'immagine: il dibattito contemporaneo
 [See in Zotero](zotero://select/items/@pinottiTeorieImmagineDibattito2009)

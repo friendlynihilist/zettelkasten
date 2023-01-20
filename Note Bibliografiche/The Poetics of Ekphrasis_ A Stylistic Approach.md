@@ -7,8 +7,7 @@ place: Cham
 DOI: 
 ---
 
-
+La monografia si propone di definire e articolare un modello di ecfrasi.
 
 ---
-## The Poetics of Ekphrasis: A Stylistic Approach
 [See in Zotero](zotero://select/items/@panagiotidouPoeticsEkphrasisStylistic2022)

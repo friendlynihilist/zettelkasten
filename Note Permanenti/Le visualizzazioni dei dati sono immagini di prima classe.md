@@ -6,5 +6,5 @@ Grazie all'iconic turn possiamo superare l'imbarazzo di considerare le visualizz
 
 ---
 ## Riferimenti
-1. [[@pinottiTeorieImmagineDibattito2009]] (cf. saggio di Elkins)
+1. [[Teorie dell'immagine_ il dibattito contemporaneo]] (cf. saggio di Elkins)
 2. 

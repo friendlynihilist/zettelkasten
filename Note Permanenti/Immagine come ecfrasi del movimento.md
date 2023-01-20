@@ -6,5 +6,5 @@ Immagine pittorica come ecfrasi del movimento (dico, come tentativo partecipato 
 
 ---
 ## Riferimenti
-1. [[@pinottiTeorieImmagineDibattito2009]] (cf. introduzione su Warburg)
-2. 
+1. [[Teorie dell'immagine_ il dibattito contemporaneo]] (cf. introduzione su Warburg)
+2. [[The Poetics of Ekphrasis_ A Stylistic Approach]]
