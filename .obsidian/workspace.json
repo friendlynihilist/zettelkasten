@@ -57,14 +57,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Bibliografiche/The Poetics of Ekphrasis_ A Stylistic Approach.md",
+                "file": "Note Permanenti/Modellizzazione e attualizzazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66db47a0dbaa90dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Permanenti/Immagine come ecfrasi del movimento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa9b286802e7a572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Permanenti/Concetto relazionale di incertezza.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Bibliografiche/The Poetics of Ekphrasis_ A Stylistic Approach.md",
+                "file": "Note Permanenti/Concetto relazionale di incertezza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,17 +194,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6e72f10b6432614a",
+  "active": "aa9b286802e7a572",
   "lastOpenFiles": [
-    "Note Permanenti/Regime scopico delle Digital Humanities.md",
-    "Note Permanenti/Potenza e atto.md",
+    "Note Bibliografiche/Managing Uncertainty in the Humanities_ Digital and Analogue Approaches.md",
+    "Note Permanenti/Concetto relazionale di incertezza.md",
+    "Note Permanenti/Efficacia della matematica nella descrizione della realtà.md",
+    "Note Permanenti/Efficacia ed efficienza.md",
+    "Note Permanenti/Empirismo.md",
+    "Note Permanenti/Filosofia della natura.md",
     "Note Permanenti/Immagine come ecfrasi del movimento.md",
     "Note Permanenti/Le visualizzazioni dei dati sono immagini di prima classe.md",
+    "Note Permanenti/Modellizzazione e attualizzazione.md",
+    "Note Permanenti/Potenza e atto.md",
+    "Note Permanenti/Regime scopico delle Digital Humanities.md",
+    "Note Bibliografiche/Toward a Relational Concept of Uncertainty_ about Knowing Too Little, Knowing Too Differently, and Accepting Not to Know.md",
+    "Note Bibliografiche/The Poetics of Ekphrasis_ A Stylistic Approach.md",
     "Note Permanenti/👨‍🏫 Platone.md",
     "Note Bibliografiche/📘 Pensare l'efficacia in Cina e in Occidente.md",
-    "Note Bibliografiche/📘 Arte e astrologia nel Palazzo Schifanoja di Ferrara.md",
-    "Note Bibliografiche/📘 Il rituale del serpente.md",
-    "Note Bibliografiche/The Poetics of Ekphrasis_ A Stylistic Approach.md",
-    "Note Bibliografiche/Teorie dell'immagine_ il dibattito contemporaneo.md"
+    "Note Bibliografiche/📘 Arte e astrologia nel Palazzo Schifanoja di Ferrara.md"
   ]
 }
