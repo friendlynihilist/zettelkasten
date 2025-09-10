@@ -11,13 +11,74 @@
             "id": "59eb40259ac7ab33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Digital Trace.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Digital Trace"
+            }
+          },
+          {
+            "id": "b4f23f49cf9c9b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Essentialism vs Processualism in Modelling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Essentialism vs Processualism in Modelling"
+            }
+          },
+          {
+            "id": "a797cfcb098dffb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Digital Annotations as Traces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Annotations as Traces"
+            }
+          },
+          {
+            "id": "a047453951d7155a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Multi-Level Annotation Ontology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-Level Annotation Ontology"
+            }
+          },
+          {
+            "id": "6917fe6c4c011895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Osservations on (Digital) Annotations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Osservations on (Digital) Annotations"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -74,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 200
   },
   "right": {
     "id": "a8e88052240ef0ea",
@@ -131,24 +192,26 @@
             }
           },
           {
-            "id": "e144aa72fc02d61b",
+            "id": "f903a81a69e1e9c0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Inbox/Osservations on (Digital) Annotations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Osservations on (Digital) Annotations"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -162,34 +225,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59eb40259ac7ab33",
+  "active": "6917fe6c4c011895",
   "lastOpenFiles": [
-    "Literature Notes/@accuosto2019.md",
-    "Literature Notes/pedretti2024.md",
-    "Templates/Literature Note.md",
+    "Inbox/Multi-Level Annotation Ontology.md",
+    "Inbox/What is an Annotation?.md",
+    "Inbox/Osservations on (Digital) Annotations.md",
+    "Inbox/Digital Annotations in IIIF.md",
+    "Permanent Notes/Digital Annotations as Traces.md",
     "Templates/Permanent Note.md",
-    "Literature Notes/@accuostoTransferringKnowledgeDiscourse2019.md",
-    "Permanent Notes/AIUCD 2024.md",
-    "Literature Notes/@cetinicGeneratingEvaluatingIconographic2021.md",
-    "Permanent Notes/Annotations in IIIF.md",
+    "Permanent Notes/Digital Trace.md",
+    "Permanent Notes/Essentialism vs Processualism in Modelling.md",
+    "@nantke2020.md",
+    "Templates/Literature Note.md",
+    "Literature Notes/@uexküll2010.md",
+    "Literature Notes/@romele2021.md",
+    "Literature Notes/@ginzburg2017.md",
+    "Literature Notes/@floridi2024.md",
+    "Literature Notes/@ciula2023.md",
+    "Literature Notes/@brigati2019.md",
+    "Literature Notes/@bauer2020.md",
+    "Permanent Notes/Real Toads in Imaginary Gardens.md",
+    "Eduardo Viveiros de Castro, \"Modi di Essere e Forme di Dipendenza,\" in _Metamorfosi. La Svolta Ontologica in Antropologia_, a cura di Roberto Brigati e Valentina Gamberi (Macerata Quodlibet, 2019), 118..md",
+    "Provenance.md",
+    "Permanent Notes/For an Evidential Paradigm.md",
+    "Literature Notes/@nantke2020.md",
+    "Zotero/Obsidian.bib",
     "Permanent Notes/Concetto relazionale di incertezza.md",
-    "Permanent Notes/Gioco e Fuga - Real Toads in Imaginary Gardens.md",
-    "Permanent Notes/Per un paradigma indiziario nella visualizzazione scientifica.md",
-    "Permanent Notes/Regime scopico delle Digital Humanities.md",
-    "Permanent Notes/Prova.md",
-    "Permanent Notes/Metafora.md",
-    "Permanent Notes/Le visualizzazioni dei dati sono immagini di prima classe.md",
-    "Permanent Notes/Interfaccia.md",
-    "Permanent Notes/Immagine come ecfrasi del movimento.md",
-    "Permanent Notes/Efficacia ed efficienza.md",
-    "@{{citekey}}.md",
-    "Literature Notes/cetinicGeneratingEvaluatingIconographic2021.md",
-    "Literature Notes/romeleDigitalHermeneuticsPhilosophical2021.md",
-    "Templates/Modello Autore.md",
-    "Templates/Mappa dei Contenuti.md",
-    "Templates/Modello Nota.md",
-    "Templates/Modello Libro.md",
-    "Literature Notes/hesselCLIPScoreReferencefreeEvaluation2021.md",
+    "Literature Notes/@anderson1979.md",
+    "Literature Notes/@adamou.md",
+    "Literature Notes/@accuosto2019.md",
     "Untitled.base",
     "Inbox",
     "20231201_202455_Page_1.png",

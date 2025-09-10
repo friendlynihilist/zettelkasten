@@ -5,7 +5,7 @@ Tags:
 
 “The practice of annotating is a cultural technique used since the Middle Ages in various religious, scholarly and everyday contexts. In the twentieth century it has also become a central principle used in information technological systems.” (“Annotations in Scholarly Editions and Research: Functions, Differentiation, Systematization”, 2020, p. 1)
 
-“the term ‘annotation’ unites different concepts that vary in coverage, application and direction but which also have instructive parallels. In the Humanities, the term traditionally refers to an additional contextualization and explanation of a text added by the author of the text” (“Annotations in Scholarly Editions and Research: Functions, Differentiation, Systematization”, 2020, p. 1)
+“the term ‘annotation’ unites different concepts that vary in coverage, application and direction but which also have instructive parallels. In the Humanities, the term traditionally refers to an additional contextualization and explanation of a text added by the author of the text” ([[@nantke2020]], p. 1)
 
 “Therefore, annotations are equally objects and tools of research, since they build bridges between the perception and the production of knowledge (see Boot 2009, 204). Annotations establish a ‘dialogical structure’ that explicitly links a text passage or an image to its translation, its explanation and/or another artefact, and thereby gives information about the use of the annotated object in a certain time, culture or situation (see Moulin 2010; Meister forthcoming). Hence, annotations always represent a specific perspective on the object, one that is shaped not only by the general circumstances of their origin but also by a designated conceptual purpose and a certain scholarly and/or personal point of view: “The core of explanatory annotation can be found in hermeneutics” (Zirker and Bauer 2017, 147).” (“Annotations in Scholarly Editions and Research: Functions, Differentiation, Systematization”, 2020, p. 1)
 
@@ -40,7 +40,7 @@ Koolen/Boot approach the topic from a more technical and infrastructural angle: 
 “annotation as saying something about (a fragment of) the text and not about (a fragment of) a specific webpage that is part of the edition’s website. But the web browser they use to view the edition only sees that webpage as a block of data containing a combination of text strings wrapped in HTML markup, with CSS information for styling the text and JavaScript code to make it interactive.” (“Annotations in Scholarly Editions and Research: Functions, Differentiation, Systematization”, 2020, p. 179)
 ## Tecnologie in uso
 
-[[Annotations in IIIF]]
+[[Digital Annotations in IIIF]]
 
 “The Web Annotation Working Group of the World Wide Web Consortium (W3C) has made the attempt to consolidate the classic concept of human-targeted annotations with a technical model that adds a new layer to the web in order to interlink web resources with human-readable annotations by means of Semantic Web technologies (Ciccarese et al. 2017a, 2017b). These web annotations are based on general linking standards that allow the creation of references to resources of various media types (text, images, videos, etc.) or their respective fragments (e.g. time- or space-based).” (“Annotations in Scholarly Editions and Research: Functions, Differentiation, Systematization”, 2020, p. 2)
 
@@ -58,6 +58,6 @@ Koolen/Boot approach the topic from a more technical and infrastructural angle: 
 
 ---
 ## Riferimenti
-1. [[Annotations in IIIF]]
+1. [[Digital Annotations in IIIF]]
 2. Unsworth, J. (2000). “Scholarly primitives: What methods do humanities researchers have in common, and how might our tools reflect this”, in Symposium on Humanities Computing: Formal Methods, Experimental Practice. King’s College, London, 3.
 3. 

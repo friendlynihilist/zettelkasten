@@ -7,9 +7,3 @@ zotero_uri: ({{zoteroSelectURI}})
 ---
 ## Riassunto
 - Scrivi qui il tuo riassunto con parole tue.
-
-## Citazioni dirette
-> "" (p. )
-**
-## Collegamenti
-- 

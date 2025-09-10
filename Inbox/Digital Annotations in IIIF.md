@@ -193,13 +193,3 @@ The storage location or method for annotations can vary depending on the impleme
 4. **Linked Data and Web Services:** IIIF encourages the use of linked data principles, allowing annotations to be stored as linked resources, connected via URIs and accessed through HTTP requests. Annotations might be stored as separate JSON-LD documents or resources with unique identifiers accessible via URLs.
 
 In general, IIIF-compliant systems maintain a clear separation between the digital resources (images, manuscripts, etc.) and the annotations associated with them. Annotations are stored in a way that allows them to be queried, retrieved, shared, and linked to the relevant parts of the digital resources they annotate. The specific storage mechanism and infrastructure used to manage annotations can vary based on the implementation and requirements of the IIIF-enabled platform or service.
-
-![[20231201_202455_Page_1.png]]
-
-![[20231201_202455_Page_2.png]]
-
-![[20231201_202455_Page_3.png]]
-
-![[20231201_202455_Page_4.png]]
-
-![[20231201_202455_Page_5.png]]
